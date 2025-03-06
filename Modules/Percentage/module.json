@@ -1,0 +1,11 @@
+{
+    "name": "Percentage",
+    "alias": "percentage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Percentage\\Providers\\PercentageServiceProvider"
+    ],
+    "files": []
+}
